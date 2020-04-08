@@ -1,0 +1,16 @@
+{
+    "accounts": [
+        {
+            "username": "bruhmoment",
+            "password": "password"
+        },
+        {
+            "username": "nick",
+            "password": "pass"
+        }
+     ],
+    "posts": [
+        "https://www.instagram.com/p/postlink2/",
+        "https://www.instagram.com/p/postlink/"
+    ]
+} 
