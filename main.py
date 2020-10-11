@@ -13,7 +13,8 @@ driver = 0
 def main():
     global driver
     print("running script")
-    driver = webdriver.Chrome("C://Users/fifof/Desktop/ig bot/chromedriver.exe")
+    #change the path to your chromedrived executable
+    driver = webdriver.Chrome("PATH")
     for name in username["accounts"]:
         print("running with %s and %s" % (name["username"], name["password"]))
         l = login.Login(driver, name["username"], name["password"])
