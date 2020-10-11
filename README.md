@@ -7,4 +7,5 @@ How to use:
 3. Install selenium     `pip install selenium`
 4. Install beautifulsoup4     `pip install beautifulsoup4`
 5. Edit names.json
-6. Run main.py    `py main.py`
+6. Change the path of the chrome webdriver in source file
+7. Run main.py    `py main.py`
